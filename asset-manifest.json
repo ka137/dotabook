@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dotabook/static/css/main.7771da39.css",
-    "main.js": "/dotabook/static/js/main.16eb8fe8.js",
+    "main.js": "/dotabook/static/js/main.8f99daaf.js",
     "static/media/stack_1.png": "/dotabook/static/media/stack_1.575752b905cfe518a8a1.png",
     "static/media/stack_2.png": "/dotabook/static/media/stack_2.adfa138fa94cf75613e8.png",
     "static/media/stack_3.png": "/dotabook/static/media/stack_3.ac8b6a44794086deadfb.png",
@@ -21,10 +21,10 @@
     "static/media/Discord.svg": "/dotabook/static/media/Discord.853edc3c4a04dcfe310e71399beb7057.svg",
     "index.html": "/dotabook/index.html",
     "main.7771da39.css.map": "/dotabook/static/css/main.7771da39.css.map",
-    "main.16eb8fe8.js.map": "/dotabook/static/js/main.16eb8fe8.js.map"
+    "main.8f99daaf.js.map": "/dotabook/static/js/main.8f99daaf.js.map"
   },
   "entrypoints": [
     "static/css/main.7771da39.css",
-    "static/js/main.16eb8fe8.js"
+    "static/js/main.8f99daaf.js"
   ]
 }
